@@ -5,7 +5,7 @@
 .yellow{
     background-color: yellow;
 }
-.common{
-    font-size: 24px;
+.checker, .yellow{
+    font-size: 29px;
     font-family:'Helvetica', 'Times New Roman', sans-serif ;
 }
